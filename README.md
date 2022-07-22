@@ -1,4 +1,4 @@
-<h1>Benefits of Next JS for building websites and apps</h1>
+<h1>Benefits of Next JS for building websites and apps 🚀🚀</h1>
 </br>
 
 Introduction
